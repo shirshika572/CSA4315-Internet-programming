@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Semantics</title>
+</head>
+<body>
+<header>
+<h1>My Website</h1>
+</header>
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+</nav>
+<main>
+<section>
+<h2>About HTML</h2>
+<p>HTML is used to create webpages.</p>
+</section>
+<article>
+<h2>HTML Tutorial</h2>
+<p>Learn HTML easily.</p>
+</article>
+</main>
+<footer>
+<p>Copyright 2026</p>
+</footer>
+</body>
+</html>
