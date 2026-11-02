@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Image</title>
+</head>
+<body>
+<h2>HTML Image Example</h2>
+<p>My favourite flower</p>
+<img src="flower.jpg"
+alt="Flower" width="300" height="200">
+</body>
+</html>
